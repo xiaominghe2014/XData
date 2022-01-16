@@ -1,0 +1,19 @@
+{
+  "name": "XData",
+  "version": "0.0.0",
+  "description": "XData is a DataUtils",
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xiaominghe2014/XData"
+  },
+  "author": "Ximena <xiaominghe2014@gmail.com>",
+  "license": "GPL2.0",
+  "engines": {
+    "node": ">=7.4.0"
+  },
+  "dependencies": {
+    "@types/node": "^15.14.9",
+    "ts-node": "^8.2.0"
+  }
+}
